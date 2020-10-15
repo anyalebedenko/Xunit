@@ -1,0 +1,33 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;
+  &lt;Assembly Path="/Users/anyalebedenko/RiderProjects/TestProject1/packages/xunit.assert.2.1.0/lib/dotnet/xunit.assert.dll" /&gt;
+&lt;/AssemblyExplorer&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=42edb595_002De154_002D44ab_002Dac23_002D2fc143125eb6/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from &amp;lt;TestProject1&amp;gt; #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Or&gt;
+    &lt;Project Location="/Users/anyalebedenko/RiderProjects/TestProject1/TestProject1" Presentation="&amp;lt;TestProject1&amp;gt;" /&gt;
+    &lt;TestAncestor&gt;
+      &lt;TestId&gt;xUnit::218925AF-9A64-4385-827F-1C39B0336246::.NETFramework,Version=v4.8::TestProject2.Tests.Add_CheckThatEventRaisedWhenAddingAnItem&lt;/TestId&gt;
+      &lt;TestId&gt;xUnit::218925AF-9A64-4385-827F-1C39B0336246::.NETFramework,Version=v4.8::TestProject2.Tests.Remove_CheckThatEventRaisedWhenRemovingAnItem&lt;/TestId&gt;
+      &lt;TestId&gt;xUnit::218925AF-9A64-4385-827F-1C39B0336246::.NETFramework,Version=v4.8::TestProject2.Tests.Add_AddNullElement_ThrowsArgumentNullException&lt;/TestId&gt;
+      &lt;TestId&gt;xUnit::218925AF-9A64-4385-827F-1C39B0336246::.NETFramework,Version=v4.8::TestProject2.Tests.AllNumbersAreNotNull&lt;/TestId&gt;
+      &lt;TestId&gt;xUnit::218925AF-9A64-4385-827F-1C39B0336246::.NETFramework,Version=v4.8::TestProject2.Tests.Contains_CheckContainsOfElementsThatAreInCollection_ReturnTrue&lt;/TestId&gt;
+      &lt;TestId&gt;xUnit::218925AF-9A64-4385-827F-1C39B0336246::.NETFramework,Version=v4.8::TestProject2.Tests.Contains_CheckContainsOfElementsThatAreNotInCollection_ReturnFalse&lt;/TestId&gt;
+      &lt;TestId&gt;xUnit::218925AF-9A64-4385-827F-1C39B0336246::.NETFramework,Version=v4.8::TestProject2.Tests.Contains_CheckContainsWhenCollectionIsEmpty_ReturnFalse&lt;/TestId&gt;
+      &lt;TestId&gt;xUnit::218925AF-9A64-4385-827F-1C39B0336246::.NETFramework,Version=v4.8::TestProject2.Tests.Remove_CheckRemoveOfElementsThatAreInCollection_ReturnTrue&lt;/TestId&gt;
+      &lt;TestId&gt;xUnit::218925AF-9A64-4385-827F-1C39B0336246::.NETFramework,Version=v4.8::TestProject2.Tests.Remove_CheckRemoveOfElementsThatAreNotInCollection_ReturnFalse&lt;/TestId&gt;
+      &lt;TestId&gt;xUnit::218925AF-9A64-4385-827F-1C39B0336246::.NETFramework,Version=v4.8::TestProject2.Tests.Remove_CheckRemoveOfElementsIfCollectionIsEmpty_ReturnFalse&lt;/TestId&gt;
+      &lt;TestId&gt;xUnit::218925AF-9A64-4385-827F-1C39B0336246::.NETFramework,Version=v4.8::TestProject2.Tests.Clear_ClearCollection_ReturnTrue&lt;/TestId&gt;
+      &lt;TestId&gt;xUnit::218925AF-9A64-4385-827F-1C39B0336246::.NETFramework,Version=v4.8::TestProject2.Tests.Remove_RemoveNullElement_ThrowsArgumentNullException&lt;/TestId&gt;
+    &lt;/TestAncestor&gt;
+  &lt;/Or&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=bf424492_002D997f_002D4dd7_002Dbc2f_002D9112832c35be/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;TestProject1&amp;gt;" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;And&gt;
+    &lt;Project Location="/Users/anyalebedenko/RiderProjects/TestProject1/TestProject1" Presentation="&amp;lt;TestProject1&amp;gt;" /&gt;
+    &lt;Not&gt;
+      &lt;TestAncestor&gt;
+        &lt;TestId&gt;NUnit3x::3D962088-A33E-45C9-8F83-D7774DC59E16::.NETFramework,Version=v4.8::TestProject1.Tests&lt;/TestId&gt;
+      &lt;/TestAncestor&gt;
+    &lt;/Not&gt;
+  &lt;/And&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/Library/Caches/JetBrains/Rider2020.2/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/JetBrains/Rider2020.2/resharper-host/local/Transient/Rider/v202/SolutionCaches/_TestProject1.410082793.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$/../Solution1/App/Program.cs" t="Include" />
+    <e p="$PROJECT_DIR$/../Solution1/Collection/Class1.cs" t="Include" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="TestProject1" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="TestProject1.csproj" t="IncludeRecursive" />
+        <e p="Tests.cs" t="Include" />
+      </e>
+      <e p="TestProject1.sln" t="IncludeFlat" />
+      <e p="TestProject2" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="TestProject2.csproj" t="IncludeRecursive" />
+        <e p="Tests.cs" t="Include" />
+      </e>
+    </e>
+  </component>
+</project>
